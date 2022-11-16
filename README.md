@@ -1,8 +1,6 @@
 ###
-<div align="center" style="background: green">
-  <h2>👋</h2>
-  <h1>Hellow World</h1>
-  <h3>Olá me chamo <b>João Arrigo</b>, tenho 18 é já estou na aréa da programação a mais de 2 anos.</h3>
+<div align="center">
+  <img src='https://media.discordapp.net/attachments/969335633376071681/1042442640345538710/HellowWorld.png' >
 </div>
   
   ##
