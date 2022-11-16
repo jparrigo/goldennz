@@ -1,7 +1,8 @@
 ###
 <div align="center">
-  <h4>👋</h4>
+  <h2>👋</h2>
   <h1>Hellow World</h1>
+  <h3>Olá me chamo <b>João Arrigo</b>, tenho 18 é já estou na aréa da programação a mais de 2 anos.</h3>
 </div>
   
   ##
