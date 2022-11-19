@@ -5,7 +5,12 @@ Hellow World 👋
 Owner of @CondadoRP and @DashNTW.
 
 [![Twitter Badge](https://img.shields.io/badge/-@jpx__x-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jpx__x)](https://twitter.com/jpx__x) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/)  -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Jp%20Arrigo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-arrigo-7a07b4256/)](https://www.linkedin.com/in/jp-arrigo-7a07b4256/) 
+[![Instagram Badge](https://img.shields.io/badge/-@jparrigo-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jparrigo/)](https://www.instagram.com/jparrigo/) 
 
-Enthusiast of the best web & mobile development technologies.
+‘‘Enthusiast of the best web & mobile development technologies.’’
+
+Olá me chamo João Paulo, tenho 18 anos. Estou na aréa da programação a mais de 2 anos.
+Começei a me interessar por esse mundo ao decorrer do ensino médio.
+
+Atualmente estou cursando Engenharia de Software na PUC Campinas.
