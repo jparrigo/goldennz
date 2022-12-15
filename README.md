@@ -4,7 +4,7 @@ Hellow World 👋
 
 Owner of @CondadoRP and @DashNTW.
 
-[![Twitter Badge](https://img.shields.io/badge/-@jpx__x-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jpx__x)](https://twitter.com/jpx__x) 
+[![Twitter Badge](https://img.shields.io/badge/-@jparrigo-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/jparrigo)](https://twitter.com/jpx__x) 
 [![Linkedin Badge](https://img.shields.io/badge/-Jp%20Arrigo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-arrigo-7a07b4256/)](https://www.linkedin.com/in/jp-arrigo-7a07b4256/) 
 [![Instagram Badge](https://img.shields.io/badge/-@jparrigo-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jparrigo/)](https://www.instagram.com/jparrigo/) 
 
