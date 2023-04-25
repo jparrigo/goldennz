@@ -10,7 +10,7 @@ Owner of @CondadoRP and @DashNTW.
 
 ‘‘Enthusiast of the best web & mobile development technologies.’’
 
-Olá me chamo João Paulo, tenho 18 anos. Estou na aréa da programação a mais de 2 anos.
+Olá me chamo João Paulo, tenho 19 anos. Estou na aréa da programação a mais de 3 anos.
 Começei a me interessar por esse mundo ao decorrer do ensino médio.
 
 Atualmente estou cursando Engenharia de Software na PUC Campinas.
